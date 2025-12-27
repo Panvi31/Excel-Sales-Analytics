@@ -18,3 +18,7 @@ This project focuses on analyzing sales data using Microsoft Excel to evaluate c
 - Delivered insights to support data-driven sales decisions
 
 ## Dashboards
+![Dashboard](M8.png)
+![Dashboard](M9.png)
+![Dashboard](M10.png)
+![Dashboard](M11.png)
